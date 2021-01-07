@@ -1,0 +1,2 @@
+# Catch-that-nuisance-Whack-a-Mole-
+One more game with easy JavaScript. I made this in November 2020, and thought to add CSS in it too. So here it is with all styles and scripts. 
