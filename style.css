@@ -1,0 +1,49 @@
+body {
+    background-image: url('onemoremole.jpg');
+    background-size: auto;
+    background-repeat: repeat;
+    color: snow;
+}
+
+.square {
+    height: 170px;
+    width: 180px;
+    border: 3px solid black;
+    background-image: url('bgjp.jpeg');
+}
+
+.grid {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-content: center;
+    height: 618px;
+    width: 618px;
+    margin-left: 300px;
+}
+
+.mole {
+    background-image: url('molew.jpg');
+    background-size: cover;
+  }
+
+.m-int {
+    background-color: red;
+    color: snow;
+}
+
+.a-des {
+    text-align: center;
+}
+
+.center {
+    clear: both;
+}
+
+.right {
+    float: right;
+}
+
+h2 {
+    float: left;
+}
